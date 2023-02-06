@@ -14,3 +14,14 @@ Complete the Blog API using Node , Express and MongoDB
 
 
 `Updating a new Blog`
+![image](https://user-images.githubusercontent.com/60139552/216976868-7b326be2-bf60-4d8b-b3f6-11a397a1235a.png)
+
+
+`Deleting a Blog , only if the user is Registered and Logged In `
+![image](https://user-images.githubusercontent.com/60139552/216977161-f5fcacdd-5379-4de0-84a3-1b6012a27a30.png)
+
+
+`Get all the blogs for the Loggend In User`
+![image](https://user-images.githubusercontent.com/60139552/216977387-782b6c13-4f9e-4fa1-9c7c-632edce24ac8.png)
+
+
